@@ -66,8 +66,6 @@ body {
     border-top: 5px solid rgb(171, 24, 240);
     z-index: 1;
 }
-
-
 #indexphoto {
     float: left;
     width: 300px;
@@ -76,3 +74,19 @@ body {
     box-shadow: 10px 10px 5px grey;
 }
 
+.item1 {
+    float:left;
+    width: 240px;
+    height: 200px;
+
+}
+.item2 {
+
+}
+.item3 {
+
+
+}
+.item4 {
+    
+}
